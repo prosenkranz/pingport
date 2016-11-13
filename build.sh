@@ -1,2 +1,2 @@
-g++ -std=c++11 port-checker.cpp -o pingport
+g++ -std=c++11 pingport.cpp -o pingport
 
